@@ -1,2 +1,1 @@
-# zero_day
-This is my first day as a Full stack engineer 
+This is my first repositroy as a full stack engineer 
